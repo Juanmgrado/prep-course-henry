@@ -1,2 +1,3 @@
 # prep-course-henry
-Esta es un repositorio de prueba del modulo 2 del prep course de henry
+Juan Maartin Grado.
+este prolyecto es una prueba
