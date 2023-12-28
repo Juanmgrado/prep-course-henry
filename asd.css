@@ -1,0 +1,22 @@
+html{ 
+    cursor: url(elementos/cursor.png), auto ;
+    
+}
+click:active {
+
+    cursor: url(click.png), auto;
+}
+a:link, a:visited, a:hover {
+    cursor: url(elementos/cursor.png), auto;
+}
+li{ 
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    background-color: rgb(255, 11, 11);
+    color: brown;
+    font-size: 2em;
+}
+.contenedor{
+    max-width: 40em;
+    margin: 0 auto;
+    padding: 1em;
+}
